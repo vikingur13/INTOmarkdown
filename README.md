@@ -22,7 +22,7 @@ Thetta skref gekk haegt og frekar brosulega. Ad forka var ekkert mal en thad sem
 ## 4. Uppsettur hugbúnaður
 
 1. Mozilla Firefox. License: Mozilla Public License (MPL). URL to the source: <http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/>
-2. LibreOffice. License: GNU Lesser General Public License (LGPL). URL to the source: <http://www/libreoffice.org/download/?type=src&version=4.1.2&lang=en-US>
+2. LibreOffice. License: GNU Lesser General Public License (LGPL). URL to the source: <http://www.libreoffice.org/download/?type=src&version=4.1.2&lang=en-US>
 3. Mozilla Thunderbird. License: Mozilla Public Licence (MPL). URL to the source: <http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases>
  
 

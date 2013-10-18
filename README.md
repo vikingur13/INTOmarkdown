@@ -7,7 +7,7 @@ Vikingur Hauksson
 Eg byrjadi a ad prufa fyrsta skrefid (ad raesa Linux fra USB lykli). Eftir svona 3 klst af alls kyns brasi gafst eg upp a thvi og sotti VirtualBox og Ubuntu VirtualBox image.
 (Fekk alltaf "no wubildr" error thegar eg reyndi ad raesa af USB lykli og tokst med engu moti ad laga thad).
 
-![Desktop](http://postimg.org/image/4qjj2xa99/)
+![Desktop](http://s22.postimg.org/cja6uwg8h/finally.png)
 
 ## 2. Uppsetning á vim && git
 
